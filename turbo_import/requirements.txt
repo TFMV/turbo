@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+google-cloud-storage
+google-cloud-logging
+psycopg2-binary
+pydantic
+asgiref==3.6.0
+pyarrow
+sqlalchemy
+pandas
+pg8000==1.22.0
+aiopg
+aiofiles
+asyncpg
