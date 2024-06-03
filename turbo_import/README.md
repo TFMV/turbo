@@ -86,6 +86,6 @@ Turbo Import leverages Google Cloud Logging for detailed mission logs. Ensure yo
 
 ## Top Gun Tips ✈️
 
-Chunk Size: Adjust the chunk_size based on your data and performance benchmarks.
-Error Handling: Enhance the error handling in import_async to cover more edge cases.
-Logging: Utilize Google Cloud Logging to monitor performance and debug issues.
+- Chunk Size: Adjust the chunk_size based on your data and performance benchmarks.
+- Error Handling: Enhance the error handling in import_async to cover more edge cases.
+- Logging: Utilize Google Cloud Logging to monitor performance and debug issues.
